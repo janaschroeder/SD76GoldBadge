@@ -1,0 +1,18 @@
+.wrapper {
+background-color: lightgoldenrodyellow;
+color: darkblue;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+font-size: 1rem;
+}
+.navblock {
+    background-color: darkblue
+    coor: lightgoldenrodyellow;
+    float: right;
+                display: block;
+    }
+h1 {
+    font-size: 4rem;
+}
+footer {
+text-align: justify;
+}
