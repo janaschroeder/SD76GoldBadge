@@ -1,3 +1,7 @@
+body{
+    height:100vh;
+}
+
 .wrapper {
 background-color: lightgoldenrodyellow;
 color: darkblue;
@@ -6,13 +10,21 @@ font-size: 1rem;
 }
 .navblock {
     background-color: darkblue
-    coor: lightgoldenrodyellow;
+    color: lightgoldenrodyellow;
     float: right;
                 display: block;
+                width: 10%;
     }
 h1 {
     font-size: 4rem;
 }
-footer {
-text-align: justify;
+
+.submitButton{
+    font-size:24px;
+    width:10vw;
+    padding:2px;
+    margin-top:5px;
+}
+footer{
+  
 }
